@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Biologist
+role: Biochemist
 
 # Organizations/Affiliations
 organizations:
@@ -84,9 +84,9 @@ user_groups:
 I am a biologist with a broad interest in understanding how protein complexes are formed, and how such complexes build cells. 
 <p>
 </p>
-For my PhD, I worked on <a href="https://en.wikipedia.org/wiki/C-reactive_protein" target="_blank">C-reactive protein</a>, a plasma protein that plays an important role in the innate immune response. My research primarly focused on the interactions of CRP with protein-lipid complexes & disorderd proteins. I also studied how CRP gene expression was regulated during inflammatory conditions.
+For my PhD I worked on <a href="https://en.wikipedia.org/wiki/C-reactive_protein" target="_blank">C-reactive protein</a>, a plasma protein that plays an important role in innate immunity. My research was primarily focused on understanding how CRP bound protein-lipid complexes and disordered/aggregated proteins. I also studied how the expression of the CRP gene was regulated during inflammatory states.
 <p>
 </p>
-After an extended career break, I am currently looking for new opportunities. If you think I might fit in your organisation, or just want to chat, please get in touch.
+After a short stint as a postdoctoral research associate, I took an extended career break to deal with some personal issues. I am currently looking for new opportunities - both in academia, as well as industry. If you think I might fit in your organisation, or just want to chat, please get in touch.
 <p>
 </p>
