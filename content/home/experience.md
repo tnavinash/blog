@@ -25,14 +25,14 @@ date_format = "Jan 2006"
   date_start = "2015-03-01"
   date_end = "2015-12-31"
   description = """
-  Responsibilities included:
-  
+  Responsibilities -
   * Research on CRP-ligand interactions
   * Writing papers & reviews
-  * Lab management (inventory, documentation)
-  * Mentoring graduate students
+  * Lab management (inventory, schedules, documentation)
+  * Mentoring undergraduate & graduate students
   """
-[[experience]]
+
+  [[experience]]
   title = "Graduate Research Assistant"
   company = "Agrawal Lab, East Tennessee State University"
   company_url = "https://www.etsu.edu"
@@ -40,12 +40,11 @@ date_format = "Jan 2006"
   date_start = "2009-08-01"
   date_end = "2014-12-31"
   description = """
-  Responsibilities included:
-  
+  Responsibilities -
   * Researh on CRP-ligand interactions, and regulation of CRP gene expression
   * Writing papers & presenting talks
-  * Lab management (inventory, documentation)
-  * Mentoring undergraduate students
+  * Lab management (inventory, schedules, documentation)
+  * Mentoring undergraduate & medical students
   """
 
 [[experience]]
@@ -56,12 +55,11 @@ date_format = "Jan 2006"
   date_start = "2006-04-07"
   date_end = "2009-02-28"
   description = """
-  Responsibilities included:
-  
+  Responsibilities -
   * Literature review and text mining
   * Building & maintenence of protein-interaction databases
   * Training & managing a 15-member team
-  * Set up and edited the in-house newsletter *Letra*
+  * Setup and editing of the in-house newsletter
   """
 [[experience]]
   title = "Private tutor"
