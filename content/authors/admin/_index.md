@@ -20,23 +20,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include protein biochemistry, cell biology, history of science, and science education
 
-interests:
-- Protein complex formation
-- Cellular organisation
-- History of Science
-- Science Education
+#interests:
+#- Protein complex formation
+#- Cellular organisation
+#- History of Science
+#- Science Education
 
-education:
-  courses:
-  - course: PhD in Biomedical Sciences
-    institution: East Tennessee State University, USA.
-    year: 2014
-  - course: MSc in Biotechnology
-    institution: Madurai Kamaraj University, India.
-    year: 2002
-  - course: BSc in Microbiology
-    institution: St. Joseph's College (Autonomous), Bangalore, India.
-    year: 2000
+#education:
+  #courses:
+  #- course: PhD in Biomedical Sciences
+  #  institution: East Tennessee State University, USA.
+  #  year: 2014
+  #- course: MSc in Biotechnology
+  #  institution: Madurai Kamaraj University, India.
+  #  year: 2002
+  #- course: BSc in Microbiology
+  #  institution: St. Joseph's College (Autonomous), Bangalore, India.
+  #  year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -81,12 +81,4 @@ user_groups:
 ---
 <p>
 </p>
-I am a biologist with a broad interest in understanding how protein complexes are formed, and how such complexes build cells. I have close to 10 years experience as a protein biochemist, having worked in both academic research and in industry. 
-<p>
-</p>
-For my PhD I worked on <a href="https://en.wikipedia.org/wiki/C-reactive_protein" target="_blank">C-reactive protein</a>, a plasma protein that plays a key role in the innate immune response. My research was primarily focused on understanding how CRP bound protein-lipid complexes, and disordered or aggregated proteins. I also studied how the expression of the CRP gene was regulated during inflammatory states.
-<p>
-</p>
-After a short postdoctoral stint, I took an extended break to deal with some personal issues. I am currently looking for new opportunities - if you think I might fit in your organisation, or just want to chat, please get in touch.
-<p>
-</p>
+<p> Website under construction....</p>
